@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "goiaba",
+    "measurementUnit": "LITRO",
+    "quantity": "12",
+    "price": 2.5,
+    "expirationDate": "04-01-2025",
+    "manufacturingDate": "04-01-2025",
+    "perishable": true
+  }
+]
